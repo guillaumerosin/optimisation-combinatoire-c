@@ -1,0 +1,8 @@
+# Binaires et sorties de build
+build/
+*.exe
+*.o
+
+# Sorties de lancements ponctuels a la racine
+/*.json
+log.csv
